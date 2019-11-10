@@ -1,7 +1,4 @@
 <html> 
-<head>  
-	<title>My Resume Page</title>
-</head>
 <body> 
 <h1>Merjem Begovic</h1>
 <h4>Master Student</h4>
