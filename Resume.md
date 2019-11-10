@@ -35,7 +35,7 @@ Sarajevo, Bosnia and Herzegovina, May 1-4, 2019</li>
 <li>Member in IAESTE BiH (2017-2018)</li>
 <li>Vice-president of the European Muslim Student Association (EMSA) 2016
 to 2017.</li>
-<li>Organization of EMSA conferences (2015-2018)</li>
+ <li>Organization of EMSA conferences (2015-2018)</li>
 <li>Conference speaker: Youth in Islam – speaker – Psychology and islam
 (2017)</li>
 <li>Erasmus+ Exchange<a href="http://www.yildiz.edu.tr/en/">
