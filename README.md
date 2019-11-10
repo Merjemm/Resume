@@ -1,6 +1,5 @@
 <html> 
-<head> 
-<title>My resume page</title> 
+<head>  
 </head>
 <body> 
 <h1>Merjem Begovic</h1>
