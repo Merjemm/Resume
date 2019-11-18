@@ -1,0 +1,83 @@
+body{
+	height: 1200px;
+}
+
+.profile{
+	background-color: lightblue;
+	position: relative;
+	width: 50%;
+	height: 200px;
+
+
+}
+.info{
+background-color: lightblue;
+	position: relative;
+	width: 50%;
+	height: 400px;
+	border-radius:5px;
+	font-family:sans-serif;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+}
+.edu{
+background-color: lightblue;
+	position: relative;
+	width: 50%;
+	height: 500px;
+}
+.picture img{
+	position: relative;
+	left: 480px;
+	bottom: 950px;
+}
+.experience {
+    width: 25%;    
+   	background: linear-gradient(to bottom, #e6ffff 0%,#00ffff 100%);
+	border-style: none;
+	height: 1100px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+	position:relative;
+	left: 800px;
+	bottom: 1350px;
+    
+}
+.work{
+	width: 25%;
+   	background: linear-gradient(to bottom, #e6ffff 0%,#00ffff 100%);
+	border-style: none;
+	height: 960px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+	position:relative;
+	left: 1100px;
+	bottom: 950px;
+    
+}
+
+
+
+
+
+
+
+.naslov{
+
+
+}
+.slika-profila {
+
+	
+
+}
+.podnaslov{
+	
+}
+
+
+podnaslovi
+opis
+titule
+link
+uni-titles
+extra-titles
+lista-uni
+lista
