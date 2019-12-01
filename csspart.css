@@ -1,7 +1,13 @@
-body{
-	height: 1200px;
+.profil {
+    float: left;
+   	background: linear-gradient(to bottom, #e6ffff 0%,#00ffff 100%);
+	border-style: none;
+	width: 25%;
+	height: 1170px;
+	
+	position:relative;
+	display: block;
 }
-
 .profile{
 	background-color: lightblue;
 	position: relative;
@@ -31,7 +37,8 @@ background-color: lightblue;
 	bottom: 950px;
 }
 .experience {
-    width: 25%;    
+    width: 25%;
+    
    	background: linear-gradient(to bottom, #e6ffff 0%,#00ffff 100%);
 	border-style: none;
 	height: 1100px;
@@ -43,18 +50,32 @@ background-color: lightblue;
 }
 .work{
 	width: 25%;
+    
    	background: linear-gradient(to bottom, #e6ffff 0%,#00ffff 100%);
 	border-style: none;
 	height: 960px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
 	position:relative;
 	left: 1100px;
-	bottom: 950px;
+	bottom: 2850px;
     
 }
+.education {
+    width: 50%;
+    float: left;
+    background: linear-gradient(to bottom, #e6ffff 0%,#00ffff 100%);
+	border-style: none;
+	height: 1170px;
+	
+	position:relative;
+	display: block;
+}
 
-
-
+@media screen and (max-width: 1000px) {
+  .profil, .experience{
+    width: 100%;
+  }
+}
 
 
 
